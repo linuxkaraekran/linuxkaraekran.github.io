@@ -1,2 +1,2 @@
 # linuxkaraekran.github.io
-Linux Kara Ekran
+Linux Kara Ekrans
