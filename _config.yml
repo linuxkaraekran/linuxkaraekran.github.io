@@ -3,7 +3,7 @@ title_left    : "Kara Ekran"
 title_right   : "   #Linux" # default: ""
 description   : "Linux terminale dair bir şeyler."
 keywords      : "linux, bash, ubuntu, debian, unix, terminal, shell, xterm, command line, script"
-url           : https://linuxkaraekran.github.io/ # site url
+url           : https://linuxkaraekran.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
