@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkımda
+permalink: /hakkimda/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Next Next yerine kara ekrana bir şeyler yazmayı seven bir Linux sever ...
